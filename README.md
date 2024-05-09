@@ -1,7 +1,7 @@
 ### Hi, I'm Sami
 
-- I'm a recent graduate with experience across the stack, primarily building React frontends and Go backends.
-- I'm currently learning backend development through the boot.dev curriculum
+- 🖥️ I'm a recent graduate with experience across the stack, primarily building React frontends and Go backends
+- 🔭 I'm currently learning backend development through the boot.dev curriculum
 
 <!--
 **SamiZein/SamiZein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
